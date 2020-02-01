@@ -9,10 +9,10 @@
 - This is Web-page by using HTML.
 - In this page,I am using table,image,content,button etc functions.
 
-<h1 align="left">Thank You!
-  </h1>
+<h6 align="left">Thank You!
+  </h6>
 
 -----
 
-<h1 align="center">Deepak Kumar
- </h1>
+<h3 align="center">Deepak Kumar
+ </h3>
