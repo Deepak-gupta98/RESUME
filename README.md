@@ -1,6 +1,6 @@
 <br><h1 align="center"> 
  Web-Page
-  <h1><br>
+  </h1><br>
 
   
   ------
@@ -10,9 +10,9 @@
 - In this page,I am using table,image,content,button etc functions.
 
 <h1 align="left">Thank You!
-  <h1>
+  </h1>
 
 -----
 
 <h1 align="center">Deepak Kumar
- <h1>
+ </h1>
